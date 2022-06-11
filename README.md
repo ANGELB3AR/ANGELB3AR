@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on game jams
-- 📫 How to reach me ... TBD
+- 📫 How to reach me ... AngelLBowers@gmail.com
 
 <!---
 ANGELB3AR/ANGELB3AR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
