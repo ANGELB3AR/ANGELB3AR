@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANGELB3AR
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on game jams
+- 💞️ I’m looking to collaborate on game jams & build my portfolio
 - 📫 How to reach me ... Discord: ANGELB3AR#1311
 
 <!---
